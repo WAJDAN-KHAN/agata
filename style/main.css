@@ -23,6 +23,7 @@
     position: absolute;
     top: 20px;
     left: 20px;
+      display:none;
   }
   .background {
     background-image: url('../img/1715353688533.jpg');
